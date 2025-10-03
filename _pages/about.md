@@ -33,14 +33,13 @@ My research interest primarily focuses on the **recommender systems**, especiall
 
 CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration
 
-
-Tianqi Liu, Kairui Fu, Shengyu Zhang, Wenyan Fan, Zhaocheng Du, Jieming Zhu, Fan Wu, Fei Wu
+**Tianqi Liu**, Kairui Fu, Shengyu Zhang, Wenyan Fan, Zhaocheng Du, Jieming Zhu, Fan Wu, Fei Wu
 
 - A framework for device-cloud collaborative personalized mixed-precision quantization that achieves model customization and compression with one forward pass.
 
 - Frozen weights + Channel-wise quantization strategy  = Fast AND Personalized model adaptation.
 
-  </div>
+  
 
 # 🎖 Honors and Awards
 - *2025.6* Outstanding Graduates of Tongji University
