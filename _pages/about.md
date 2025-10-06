@@ -30,7 +30,7 @@ My research interest primarily focuses on the **recommender systems**, especiall
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (To appear)</div><img src='../images/CHORD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration](arxiv.org)
+[CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration](https://www.arxiv.org/pdf/2510.03038)
 
 **Tianqi Liu**, Kairui Fu, Shengyu Zhang, Wenyan Fan, Zhaocheng Du, Jieming Zhu, Fan Wu, Fei Wu
 
