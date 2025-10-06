@@ -23,11 +23,11 @@ My research interest primarily focuses on the **recommender systems**, especiall
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to MM 2025. 
+- *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to ACM MM 2025. 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025 (To appear)</div><img src='../images/CHORD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='../images/CHORD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CHORD: Customizing Hybrid-precision On-device Model for Sequential Recommendation with Device-cloud Collaboration](https://www.arxiv.org/pdf/2510.03038)
