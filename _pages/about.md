@@ -23,8 +23,9 @@ My research interest primarily focuses on the **recommender systems**, especiall
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to ACM MM 2025. 
-
+- *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to ACM MM 2025.
+- *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an oral presentation of our paper CHORD in ACM MM 2025.
+  
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='../images/CHORD.png' alt="sym" width="100%"></div></div>
