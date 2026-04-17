@@ -41,7 +41,7 @@ My research primarily focuses on **recommender systems** and **LLM agents**, par
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../images/image.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='../image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [What’s Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning](https://www.arxiv.org/pdf/2510.03038)
