@@ -19,7 +19,7 @@ redirect_from:
 
 My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a first-year MS student in Zhejiang University, under the supervision of Prof.[Shengyu Zhang](https://person.zju.edu.cn/shengyuzhang).
 
-My research primarily focuses on **recommender systems** and **LLM agents**, particularly in **model customization, lightweight deployment, and reinforcement-learning-based refinement**. Recently, I have developed a growing interest in **personalized, user-centric LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction. 
+My research interests primarily focus on **recommender systems** and **LLM agents**, particularly in **model customization, lightweight deployment, and reinforcement-learning-based refinement**. Recently, I have developed a growing interest in **personalized, user-centric LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction. 
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted to ACL 2026.
@@ -48,16 +48,16 @@ My research primarily focuses on **recommender systems** and **LLM agents**, par
 
 Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun Chen, Wen Zhang
 
-- A framework for "Screen-UI Elements-Action" loop GUI reasoning that achieves interpretable decision-making and precise interface parsing.
+- A GUI reasoning framework utilizing a 'Screen-UI Elements-Action' loop to achieve interpretable decision-making and precise interface parsing.
 - UI-Driven RL (localization + semantics + utilization) + 26K UI-Comprehension Benchmark = Transparent multi-step GUI automation.
-- Project page: https://github.com/zjukg/UILoop
+- [Project](https://github.com/zjukg/UILoop)
 </div>
 </div>
 
 
 
 # 🎖 Honors and Awards
-- *2025.6* Outstanding Graduates of Tongji University
+- *2025.06* Outstanding Graduates of Tongji University
 - *2024.12* Outstanding student of Tongji University (Top 5%)
 - *2024.12* Scholarship of Tongji University
 - *2023.12* Scholarship of Tongji University
