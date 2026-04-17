@@ -48,9 +48,10 @@ My research interests primarily focus on **recommender systems** and **LLM agent
 
 Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun Chen, Wen Zhang
 
+[Project](https://github.com/zjukg/UILoop)
+
 - A GUI reasoning framework utilizing a 'Screen-UI Elements-Action' loop to achieve interpretable decision-making and precise interface parsing.
 - UI-Driven RL (localization + semantics + utilization) + 26K UI-Comprehension Benchmark = Transparent multi-step GUI automation.
-- [Project page](https://github.com/zjukg/UILoop)
 </div>
 </div>
 
