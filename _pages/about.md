@@ -57,6 +57,32 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 
 
 
+# 💡 Projects
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 1em 0 2em 0;">
+  <a href="https://github.com/mrwwk/DeskCraft" style="flex: 1 1 260px; min-width: 240px; max-width: 400px; text-decoration: none; border: 1px solid #e4e2e2; border-radius: 6px; padding: 16px;">
+    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+      <svg height="16" width="16" viewBox="0 0 16 16" fill="#586069" aria-hidden="true"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>
+      <span style="font-size: 15px; font-weight: 600; color: #2f80ed;">mrwwk/DeskCraft</span>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/github/stars/mrwwk/DeskCraft?style=social" alt="GitHub stars">
+      <img src="https://img.shields.io/github/forks/mrwwk/DeskCraft?style=social" alt="GitHub forks">
+    </div>
+  </a>
+  <a href="https://github.com/zjukg/UILoop" style="flex: 1 1 260px; min-width: 240px; max-width: 400px; text-decoration: none; border: 1px solid #e4e2e2; border-radius: 6px; padding: 16px;">
+    <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 12px;">
+      <svg height="16" width="16" viewBox="0 0 16 16" fill="#586069" aria-hidden="true"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>
+      <span style="font-size: 15px; font-weight: 600; color: #2f80ed;">zjukg/UILoop</span>
+    </div>
+    <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+      <img src="https://img.shields.io/github/stars/zjukg/UILoop?style=social" alt="GitHub stars">
+      <img src="https://img.shields.io/github/forks/zjukg/UILoop?style=social" alt="GitHub forks">
+    </div>
+  </a>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2025.06* Outstanding Graduates of Tongji University
 - *2024.12* Outstanding student of Tongji University (Top 5%)
@@ -70,4 +96,6 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 - *2021.09 - 2025.06*, Undergraduate, Software Engineering, Tongji University.
 
 # 💻 Internships
+- *2026.06 - present*, Taotian Group (Alibaba), Meta-Code LLM Team, China.
+- *2025.08 - 2026.05*, Huawei Markov Lab, China.
 - *2025.03 - 2025.05*, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html), China.
