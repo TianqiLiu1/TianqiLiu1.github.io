@@ -37,6 +37,8 @@ My research interests primarily focus on **LLM agents** and **recommender system
 
 **Tianqi Liu**, Kairui Fu, Shengyu Zhang, Wenyan Fan, Zhaocheng Du, Jieming Zhu, Fan Wu, Fei Wu
 
+[Project](/chord.html)
+
 - A framework for device-cloud collaborative personalized mixed-precision quantization that achieves model customization and compression with one forward pass.
 - Frozen weights + Channel-wise quantization strategy  = Fast AND Personalized model adaptation.
 </div>
