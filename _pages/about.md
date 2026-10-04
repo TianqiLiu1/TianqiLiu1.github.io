@@ -22,6 +22,7 @@ My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a first-year MS studen
 My research interests primarily focus on **recommender systems** and **LLM agents**, particularly in **model customization, lightweight deployment, and reinforcement-learning-based refinement**. Recently, I have developed a growing interest in **personalized, user-centric LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction. 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 Oral.
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted to ACL 2026.
 - *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an oral presentation of our paper CHORD in ACM MM 2025.
 - *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to ACM MM 2025.
@@ -92,6 +93,6 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 - *2021.09 - 2025.06*, Undergraduate, Software Engineering, Tongji University.
 
 # 💻 Internships
-- *2026.06 - present*, Alibaba Taotian Group, Meta-Code LLM Team, China.
+- *2026.06 - present*, Alibaba Taobao&Tmall Group, Meta-Code LLM Team, China.
 - *2025.08 - 2026.05*, Huawei Markov Lab, China.
 - *2025.03 - 2025.05*, [Huawei Noah’s Ark Lab](http://dev3.noahlab.com.hk/index.html), China.
