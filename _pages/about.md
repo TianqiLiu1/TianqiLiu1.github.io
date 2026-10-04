@@ -22,9 +22,9 @@ My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a first-year MS studen
 My research interests primarily focus on **LLM agents** and **recommender systems**, particularly in **model customization, lightweight deployment, and reinforcement-learning-based refinement**. Recently, I have developed a growing interest in **personalized, user-centric, self-evolving LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction.
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 Oral.
+- *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 **Oral**.
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted to ACL 2026.
-- *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an oral presentation of our paper CHORD in ACM MM 2025.
+- *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an **oral** presentation of our paper CHORD in ACM MM 2025.
 - *2025.07*: &nbsp;🎉🎉 One first-author paper has been accepted to ACM MM 2025.
 
   
