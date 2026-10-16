@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a first-year MS student in Zhejiang University, under the supervision of Prof.[Shengyu Zhang](https://person.zju.edu.cn/shengyuzhang).
+My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a second-year MS student in Zhejiang University, under the supervision of Prof.[Shengyu Zhang](https://person.zju.edu.cn/shengyuzhang).
 
-My research interests primarily focus on **LLM agents** and **recommender systems**, particularly in **model customization, lightweight deployment, and reinforcement-learning-based refinement**. Recently, I have developed a growing interest in **personalized, user-centric, self-evolving LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction.
+My research interests primarily focus on **LLM agents** and **recommender systems**, particularly in **agent post-training， customization, and realistic evaluation**. Recently, I have developed a growing interest in **personalized, user-centric, self-evolving LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction.
 
 # 🔥 News
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 **Oral**.
@@ -83,6 +83,7 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 
 
 # 🎖 Honors and Awards
+- *2026.10* National Scholarship
 - *2025.06* Outstanding Graduates of Tongji University
 - *2024.12* Outstanding student of Tongji University (Top 5%)
 - *2024.12* Scholarship of Tongji University
@@ -91,7 +92,7 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 - *2022.12* Scholarship of Tongji University
 
 # 📖 Educations
-- *2025.09 - present*, Master, Artificial Intelligence, Zhejiang University.
+- *2025.09 - 2028.06*, Master, Artificial Intelligence, Zhejiang University.
 - *2021.09 - 2025.06*, Undergraduate, Software Engineering, Tongji University.
 
 # 💻 Internships
