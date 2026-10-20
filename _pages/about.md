@@ -30,6 +30,22 @@ My research interests primarily focus on **LLM agents** and **recommender system
   
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><a href="https://tianqiliu1.github.io/PACE-Bench/"><img src='../images/PACE-Bench.png' alt="PACE-Bench overview: requirement reconstruction, Code Point synthesis, contract validation, and symptom-signal attribution" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Coding Agents Outpace Review: Evaluating PRD-Driven Development in Mature Enterprise Repositories](https://arxiv.org/pdf/2610.26394)
+
+**Tianqi Liu**<sup>*</sup>, Yandong Guan<sup>*</sup>, Songze Li, Wenkai Wang, Gang Yu, Chengfei Lv
+
+<small>* Equal contribution.</small>
+
+[Project](https://tianqiliu1.github.io/PACE-Bench/)
+
+- A benchmark of **43 real enterprise tasks** and **750 expert-audited Code Points**, measuring complete PRD fulfillment in existing repositories.
+- Requirement reconstruction, atomic acceptance contracts, and evidence-based semantic evaluation connect delivery gaps to agent behavior and guide harness refinement.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='../images/CHORD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -63,6 +79,14 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 # 💡 Projects
 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; margin: 1em 0 2em 0; width: 100%;">
+  <div style="flex: 1 1 280px; min-width: 260px; border: 1px solid #e4e2e2; border-radius: 6px; padding: 18px 20px; display: flex; flex-direction: column;">
+    <a href="https://github.com/TianqiLiu1/PACE-Bench" style="display: flex; align-items: center; gap: 8px; font-size: 16px; font-weight: 600; color: #2f80ed; text-decoration: none; margin-bottom: 10px;">
+      <svg height="16" width="16" viewBox="0 0 16 16" fill="#586069" aria-hidden="true" style="flex-shrink: 0;"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>
+      TianqiLiu1/PACE-Bench
+    </a>
+    <p style="font-size: 13.5px; color: #586069; line-height: 1.6; margin: 0 0 14px;">PRD-Anchored Coding-agent Evaluation for incremental enterprise development: 43 real tasks, 750 acceptance points, and traceable diagnosis beyond an overall score.</p>
+    <iframe src="https://ghbtns.com/github-btn.html?user=TianqiLiu1&repo=PACE-Bench&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="Star TianqiLiu1/PACE-Bench on GitHub" style="margin-top: auto;"></iframe>
+  </div>
   <div style="flex: 1 1 280px; min-width: 260px; border: 1px solid #e4e2e2; border-radius: 6px; padding: 18px 20px; display: flex; flex-direction: column;">
     <a href="https://github.com/mrwwk/DeskCraft" style="display: flex; align-items: center; gap: 8px; font-size: 16px; font-weight: 600; color: #2f80ed; text-decoration: none; margin-bottom: 10px;">
       <svg height="16" width="16" viewBox="0 0 16 16" fill="#586069" aria-hidden="true" style="flex-shrink: 0;"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path></svg>
