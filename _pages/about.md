@@ -35,9 +35,7 @@ My research interests primarily focus on **LLM agents** and **recommender system
 
 [When Coding Agents Outpace Review: Evaluating PRD-Driven Development in Mature Enterprise Repositories](https://arxiv.org/pdf/2610.26394)
 
-**Tianqi Liu**<sup>*</sup>, Yandong Guan<sup>*</sup>, Songze Li, Wenkai Wang, Gang Yu, Chengfei Lv
-
-<small>* Equal contribution.</small>
+**Tianqi Liu**, Yandong Guan, Songze Li, Wenkai Wang, Gang Yu, Chengfei Lv
 
 [Project](https://tianqiliu1.github.io/PACE-Bench/)
 
