@@ -22,6 +22,7 @@ My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a second-year MS stude
 My research interests primarily focus on **LLM agents** and **recommender systems**, particularly in **agent post-training， customization, and realistic evaluation**. Recently, I have developed a growing interest in **personalized, user-centric, self-evolving LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction.
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 One first-author paper has been accepted to WSDM 2027 Main.
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 **Oral**.
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted to ACL 2026.
 - *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an **oral** presentation of our paper CHORD in ACM MM 2025.
