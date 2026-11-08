@@ -23,7 +23,7 @@ My research focuses on **personalized, user-centric intelligent systems**, spann
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉 One first-author paper has been accepted to WSDM 2027 Main.
-- *2026.10*: &nbsp;🚀 We released the code for [PACE-Bench](https://github.com/TianqiLiu1/PACE-Bench).
+- *2026.10*: &nbsp;🚀🎉 We released the code for [PACE-Bench](https://github.com/TianqiLiu1/PACE-Bench).
 - *2026.07*: &nbsp;🎉🎉 One paper has been accepted to EMNLP 2026 **Oral**.
 - *2026.04*: &nbsp;🎉🎉 One paper has been accepted to ACL 2026.
 - *2025.10*: &nbsp;🥳🥳 I went to Dublin, Ireland, to deliver an **oral** presentation of our paper CHORD in ACM MM 2025.
