@@ -19,7 +19,7 @@ redirect_from:
 
 My name is **Tianqi Liu (zh: 刘天琦)**. I am currently a second-year MS student in Zhejiang University, under the supervision of Prof.[Shengyu Zhang](https://person.zju.edu.cn/shengyuzhang).
 
-My research interests primarily focus on **LLM agents** and **recommender systems**, particularly in **agent post-training， customization, and realistic evaluation**. Recently, I have developed a growing interest in **personalized, user-centric, self-evolving LLM agents**, seeking to tackle the challenges of proactive interaction in human-agent interaction.
+My research focuses on **personalized, user-centric intelligent systems**, spanning **recommender systems and LLM agents**. I am interested in how these systems can adapt to individual needs, improve through experience, and work effectively in real-world settings. My recent work explores **agent post-training, customization, and evaluation**, with a growing interest in self-evolving agents that can proactively interact with users and adapt as their needs change.
 
 # 🔥 News
 - *2026.11*: &nbsp;🎉🎉 One first-author paper has been accepted to WSDM 2027 Main.
