@@ -31,6 +31,20 @@ My research interests primarily focus on **LLM agents** and **recommender system
   
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2027</div><a href="/race.html"><img src='../images/race-overview.png' alt="RACE overview: uncertainty-guided resource allocation, subnet identification, and progressive sequence filtering" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation](/race.html)
+
+**Tianqi Liu**, Kaipu Sun, Kairui Fu, Wenkai Wang, Sihao Liu, Hui Zang, Ran Chen, Tao Wang, Shengyu Zhang
+
+[Project](/race.html)
+
+- **From post-hoc ranking uncertainty to proactive resource allocation.** RACE measures ranking stability as a proxy for instance complexity and uses self-supervision to anticipate that signal from early-layer features.
+- **Uncertainty-guided customization in model and data spaces.** RACE reuses intrinsic features to identify interest-compatible subnetworks and progressively filter interaction sequences, adapting both to each instance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><a href="https://tianqiliu1.github.io/PACE-Bench/"><img src='../images/PACE-Bench.png' alt="PACE-Bench overview: requirement reconstruction, Code Point synthesis, contract validation, and symptom-signal attribution" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -74,6 +88,20 @@ Songze Li, Xiaoke Guo, **Tianqi Liu**, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huaj
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><a href="https://mrwwk.github.io/DeskCraft/"><img src='../images/deskcraft-overview.png' alt="DeskCraft overview: task difficulty, human-agent interaction, and desktop application coverage" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration](https://arxiv.org/abs/2606.03103)
+
+Wenkai Wang, Tao Xiong, Jingchen Ni, Yunpeng Bao, Xiyun Li, **Tianqi Liu**, Hongcan Guo, Zilong Huang, Shengyu Zhang
+
+[Project](https://mrwwk.github.io/DeskCraft/)
+
+- **Evaluate professional desktop workflows.** DeskCraft includes 538 executable tasks across desktop applications, from atomic operations to long-horizon workflows.
+- **Model human-agent collaboration.** Interactive tasks include agent-initiated clarification, user interruptions, and feedback after completion.
+</div>
+</div>
 
 # 💡 Projects
 
